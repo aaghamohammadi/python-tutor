@@ -55,4 +55,17 @@
 🔗 <a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359">Fluent Python: Clear, Concise, and Effective Programming</a> (پیشرفته)
 </p>
 
+<h2 dir=rtl>
+ویدیوهای آموزشی
+</h2>
+
+<p dir=rtl>
+ویدیوهای آموزش برنامه‌نویسی پایتون را می‌توانید در کانال یوتیوب مشاهده کنید.
+
+<div dir=rtl>
+<a href="https://www.youtube.com/embed/d1RsktGiQIQ" target="_blank">
+<img src="https://img.youtube.com/vi/d1RsktGiQIQ/0.jpg" alt="آموزش برنامه‌نویسی پایتون" width="240" height="180" /></a>
+</div>
+</p>
+
 
