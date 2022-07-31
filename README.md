@@ -37,4 +37,22 @@
 </ul>
 </div>
 
+<h2 dir=rtl>
+منابع
+</h2>
+
+<p dir=rtl>
+خواندن کتاب‌های زیر برای یادگیری بهتر پایتون را توصیه می‌کنم.
+
+🔗 <a href="https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126">Python for Everybody</a> (مقدماتی)
+
+🔗 <a href="https://www.amazon.com/Writing-Idiomatic-Python-Jeff-Knupp/dp/1482374811"> Writing Idiomatic Python</a> (متوسط)
+
+🔗 <a href="https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301">Python Tricks: A Buffet of Awesome Python Features</a> (متوسط رو به بالا)
+
+🔗 <a href="https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989">Effective Python: 90 Specific Ways to Write Better Python</a> (متوسط رو به بالا)
+
+🔗 <a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359">Fluent Python: Clear, Concise, and Effective Programming</a> (پیشرفته)
+</p>
+
 
