@@ -62,9 +62,10 @@
 <p dir=rtl>
 ویدیوهای آموزش برنامه‌نویسی پایتون را می‌توانید در کانال یوتیوب مشاهده کنید.
 
+🔗 <a href="https://www.youtube.com/playlist?list=PLnEg28Nx10WFuBHjDLlYEJ4JboPIp55Yr"> پلی‌لیست آموزش برنامه‌نویسی پایتون (یوتیوب)</a>
 <div dir=rtl>
 <a href="https://www.youtube.com/embed/d1RsktGiQIQ" target="_blank">
-<img src="https://img.youtube.com/vi/d1RsktGiQIQ/0.jpg" alt="آموزش برنامه‌نویسی پایتون" width="240" height="180" /></a>
+<img src="https://img.youtube.com/vi/d1RsktGiQIQ/0.jpg" alt="آموزش برنامه‌نویسی پایتون" width="480" height="360" /></a>
 </div>
 </p>
 
